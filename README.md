@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
-- 📫 How to reach me **vinayadari00@gmail.com**
+- 📫 How to reach me **vinay.tsx@gmail.com**
 
 - ⚡ Fun fact **i Like Solving Real World Problems**
 
